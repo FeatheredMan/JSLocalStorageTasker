@@ -1,0 +1,53 @@
+
+body{
+    margin: 0px;
+    padding: 10px;
+    font-family: sans-serif,serif,"Time new roman";
+    background-color: azure;
+    max-width: 400px;
+    max-height: 500px;
+    overflow: scroll;
+}
+
+#input-el{
+    width: 100%;
+    padding: 10px  10px 10px 10px;
+    box-sizing:border-box;
+    border: 1px solid green;
+}
+
+#input-btn{
+    background-color: green;
+    color: white;
+    font-weight: bolder; 
+    padding:10px ;
+    margin-top: 10px;
+    border: none;
+}
+#all-btn{
+      background-color: gold;
+    color: white;
+    font-weight: bolder; 
+    padding:10px ;
+    margin-top: 10px;
+    border: none;
+}
+
+#delete-btn{
+    background-color: white;
+    color: green;
+    font-weight: bolder; 
+    padding:10px ;
+    margin-top: 10px;
+    border: 1px solid green;
+}
+
+#store-el{
+    width: 100%
+    margin-top: 10px;
+    box-sizing: border-box;
+    border:1px dashed blue;
+    background-color:bisque;
+    list-style-type: none;
+    
+}

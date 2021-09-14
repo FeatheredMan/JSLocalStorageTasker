@@ -1,0 +1,9 @@
+{
+  "name": "المهام",
+  "manifest_version": 3,
+  "version": "1.0", 
+      "action": { 
+        "default-popup":"index.html",
+            "default-icon":"icon-api.svg"
+      }
+}
